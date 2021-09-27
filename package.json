@@ -1,7 +1,7 @@
 {
   "name": "crud_mern",
   "version": "1.0.0",
-  "description": "This is a activity for Web and Mobile Systems",
+  "description": "An activity for Electives 2",
   "main": "server.js",
   "scripts": {
     "server": "npm start --prefix server",
@@ -9,13 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jOn3th19/CRUD_MERN.git"
+    "url": "git+https://github.com/Monddd/CRUD_MERN.git"
   },
-  "author": "Joneth Rudio",
+  "author": "Raymond Joseph Miranda",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jOn3th19/CRUD_MERN/issues"
+    "url": "https://github.com/Monddd/CRUD_MERN/issues"
   },
-  "homepage": "https://github.com/jOn3th19/CRUD_MERN#readme",
   "dependencies": {}
 }
