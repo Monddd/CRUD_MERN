@@ -1,7 +1,7 @@
 {
   "name": "crud_mern",
   "version": "1.0.0",
-  "description": "An activity for Electives 2",
+  "description": "An Activity for Electives 2",
   "main": "server.js",
   "scripts": {
     "server": "npm start --prefix server",
@@ -16,5 +16,6 @@
   "bugs": {
     "url": "https://github.com/Monddd/CRUD_MERN/issues"
   },
+  "homepage": "https://github.com/Monddd/CRUD_MERN#readme",
   "dependencies": {}
 }

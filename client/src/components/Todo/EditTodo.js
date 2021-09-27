@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React, { useEffect, useState } from 'react';
 
 import { TodoForm } from './TodoForm';
 import axios from 'axios';
@@ -19,7 +19,7 @@ export const EditTodo = () => {
   const onSubmit = async (data) => {
     await axios.put('/api/todo/' + match.params.id, data)
       .then(res => console.log(res.data))
-      .catch((err) => console.log("Error: " + err));
+      .catch((err) => console.log("Error: " + err))
     
     history.push('/')
   }

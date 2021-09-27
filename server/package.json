@@ -6,7 +6,7 @@
   "scripts": {
     "start": "nodemon server.js"
   },
-  "author": "Joneth Rudio",
+  "author": "Raymond Joseph Miranda",
   "license": "MIT",
   "dependencies": {
     "config": "^3.3.6",
